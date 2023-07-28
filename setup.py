@@ -19,6 +19,7 @@ setup(
     description='Create a set of REST API endpoints for Authentication and Registration',
     packages=find_packages(),
     long_description=long_description,
+    long_description_content_type='text/markdown',
     keywords='django rest auth registration rest-framework django-registration api',
     zip_safe=False,
     install_requires=[
