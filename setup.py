@@ -12,7 +12,7 @@ f.close()
 
 setup(
     name='django-rest-auth-e2e',
-    version='0.9.5',
+    version='0.9.6',
     author='rounak kabra',
     author_email='rounak.kabra@e2enetworks.com',
     url='https://github.com/Roniee007/django-rest-auth-e2e',
